@@ -1,0 +1,105 @@
+<!-- Quarter Note - No Subdivision -->
+		<dict><!-- Song Title -->
+			<key>MutedBars</key>
+			<integer>0</integer>
+			<key>UnmutedBars</key>
+			<integer>1</integer>
+			<key>autoStepBPM</key>
+			<integer>2</integer>
+			<key>autoStepBars</key>
+			<integer>10</integer>
+			<key>autoStepTime</key>
+			<integer>30</integer>
+			<key>automatorState</key>
+			<integer>0</integer>
+			<key>barTotal</key>
+			<integer>100</integer>
+			<key>beatCode</key>
+			<integer>0</integer>
+			<key>beatStates</key>
+			<array>
+				<integer>1</integer>
+				<integer>1</integer>
+				<integer>1</integer>
+				<integer>1</integer>
+			</array>
+			<key>countInBars</key>
+			<integer>0</integer>
+			<key>meterCode</key>
+			<integer>4</integer>
+			<key>numBeats</key>
+			<integer>4</integer>
+			<key>numSubBeats</key>
+			<integer>1</integer>
+			<key>resetAtCountEnd</key>
+			<false/>
+			<key>stopAtCountEnd</key>
+			<false/>
+			<key>subBeatStates</key>
+			<array>
+				<integer>1</integer>
+			</array>
+			<key>tempo</key>
+			<integer>Song BPM</integer>
+			<key>timerMax</key>
+			<integer>300</integer>
+			<key>title</key>
+			<string>Song Title</string>
+			<key>trackerHasMax</key>
+			<false/>
+			<key>trackerState</key>
+			<integer>0</integer>
+		</dict>
+<!-- Quarter Note - Eighth Note Subdivision -->
+		<dict><!-- Song Title -->
+			<key>MutedBars</key>
+			<integer>0</integer>
+			<key>UnmutedBars</key>
+			<integer>1</integer>
+			<key>autoStepBPM</key>
+			<integer>2</integer>
+			<key>autoStepBars</key>
+			<integer>10</integer>
+			<key>autoStepTime</key>
+			<integer>30</integer>
+			<key>automatorState</key>
+			<integer>0</integer>
+			<key>barTotal</key>
+			<integer>100</integer>
+			<key>beatCode</key>
+			<integer>1</integer><!-- Eighth Note Subdivision -->
+			<key>beatStates</key>
+			<array>
+				<integer>1</integer>
+				<integer>1</integer>
+				<integer>1</integer>
+				<integer>1</integer>
+			</array>
+			<key>countInBars</key>
+			<integer>0</integer>
+			<key>meterCode</key>
+			<integer>4</integer>
+			<key>numBeats</key>
+			<integer>4</integer>
+			<key>numSubBeats</key>
+			<integer>2</integer><!-- Eighth Note Sub-beats -->
+			<key>resetAtCountEnd</key>
+			<false/>
+			<key>stopAtCountEnd</key>
+			<false/>
+			<key>subBeatStates</key>
+			<array>
+				<integer>1</integer><!-- Eighth Note Subdivision state -->
+				<integer>1</integer><!-- Eighth Note Subdivision state -->
+			</array>
+			<key>tempo</key>
+			<integer>Song BPM</integer>
+			<key>timerMax</key>
+			<integer>300</integer>
+			<key>title</key>
+			<string>Song Title</string>
+			<key>trackerHasMax</key>
+			<false/>
+			<key>trackerState</key>
+			<integer>0</integer>
+		</dict>
